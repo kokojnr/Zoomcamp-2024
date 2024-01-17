@@ -1,4 +1,4 @@
-FROM python:3.99
+FROM python:3.9
 
 RUN pip install pandas
 
